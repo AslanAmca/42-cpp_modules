@@ -6,6 +6,9 @@
 
 This repository contains solutions and resources for the CPP Modules in the 42 school curriculum. Each module covers specific aspects of C++ programming and is designed to progressively build proficiency in object-oriented programming concepts, memory management, and advanced C++ features.
 
+## Modules Overview
+Here’s an overview of each module in this repository:
+
 | Nº  | Module                          | Description                                         | Topics                                                  |
 | --- | -------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
 | 1   | **CPP_00**                       | Getting familiar with C++                           | Classes, member functions, and basic C++ features        |
